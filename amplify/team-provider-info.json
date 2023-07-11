@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mycognitoapp-dev-160432-authRole",
+      "UnauthRoleArn": "arn:aws:iam::608375733645:role/amplify-mycognitoapp-dev-160432-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::608375733645:role/amplify-mycognitoapp-dev-160432-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-mycognitoapp-dev-160432-deployment",
+      "UnauthRoleName": "amplify-mycognitoapp-dev-160432-unauthRole",
+      "StackName": "amplify-mycognitoapp-dev-160432",
+      "StackId": "arn:aws:cloudformation:ap-south-1:608375733645:stack/amplify-mycognitoapp-dev-160432/dc6c0580-1cb1-11ee-8f46-061412aacfac",
+      "AmplifyAppId": "d5aq1760xilk3"
+    },
+    "categories": {
+      "auth": {
+        "mycognitoapp91ab0acd": {
+          "userPoolId": "ap-south-1_CQg08CJEX",
+          "userPoolName": "ScottBabu",
+          "webClientId": "1urakpvu22fl9s2i5cmtm5gk9t",
+          "nativeClientId": "1urakpvu22fl9s2i5cmtm5gk9t"
+        }
+      }
+    }
+  }
+}
