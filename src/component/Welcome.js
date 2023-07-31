@@ -52,7 +52,7 @@ function Welcome(props) {
     }
 
     return (
-        <div className="container">
+        <div className="dashboard">
             <h1>Dashboard</h1>
             <button onClick={handleSignOut}>Sign Out</button>
             {/* <button onClick={handleCallProtectedMethod}>Call Protected API</button> */}
